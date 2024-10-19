@@ -1,3 +1,3 @@
 # dev
-My first Git Repository
+My first Git Repository. 
 Author - Teju R
